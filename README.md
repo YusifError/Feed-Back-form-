@@ -2,9 +2,9 @@
 ↓  ↓  ↓  ↓  ↓  ↓  ↓ 
 
 # Open the project
-1)npm i<h3>
-2)cd Backend<h3>
-3)npm i<h3> 
-4)cd .. <h3>
-5)cd Frontend<h3>
-6)npm i<h3> 
+1)npm i
+2)cd Backend
+3)node server/api.js
+4)cd ..
+5)cd Frontend
+6)npm run dev
